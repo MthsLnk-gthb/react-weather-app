@@ -1,6 +1,6 @@
 # Weather App React
 
-#English: 
+# English: 
 
 ## Overview
 This project is built using React Js and Vite, incorporating the react-accessible-accordion library to display weather information for each day in a 7-day forecast.
@@ -16,7 +16,7 @@ Access the live application [HERE](https://mthslnk-gthb.github.io/react-weather-
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Português:
+# Português:
 
 ## Neste projeto utilizei React Js e Vite, também utilizando a biblioteca react-accessible-accordion, para exibir as informações do clima para cada dia na previsão de 7 dias.
 
