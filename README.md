@@ -1,6 +1,6 @@
 # Weather App React
 
-## Neste projeto utilizei React Js e Vite, também utilizando a biblioteca react-accessible-accordion, para exibir as informações do clima para cada dia na prvisão de 7 dias.
+## Neste projeto utilizei React Js e Vite, também utilizando a biblioteca react-accessible-accordion, para exibir as informações do clima para cada dia na previsão de 7 dias.
 
 ### Utilizei os dados da [Open Weather Api](https://openweathermap.org/api), exibe o clima atual do local pesquisado e também a previsão para os próximos 7 dias.
 
